@@ -4,7 +4,7 @@ This is a clean and interactive **To-Do List** web application built using **HTM
 
 ---
 
-## Live Demo:  https://manas-kalamkar.github.io/project_2_todo/
+## Live Demo:  https://manas-kalamkar.github.io/todo/
 
 ## 🌟 Features
 
